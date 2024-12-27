@@ -1,0 +1,107 @@
+100
+Apple
+Appel
+Regular Apple
+Gewone appel
+healing
+5
+50
+
+101
+Apple
+Appel
+Magic Apple
+Magische appel
+healing
+10
+100
+
+102
+Potion
+Toverdrank
+Elf Potion
+Elfen drankje
+healing
+5
+50
+
+103
+Potion
+Toverdrank
+Fairy Potion
+Sprookjes drankje
+healing
+10
+100
+
+104
+Bar
+Staaf
+Glass bar
+Glazen staaf
+attackboost
+5
+50
+
+105
+Bar
+Staaf
+Wooden bar
+Houten staaf
+attackboost
+10
+100
+
+106
+Bar
+Staaf
+Copper bar
+Koper staaf
+attackboost
+20
+200
+
+107
+Bar
+Staaf
+Chromium bar
+Chroom staaf
+attackboost
+35
+350
+
+108
+Disk
+Schijf
+Glass disk
+Glazen schijf
+defenseboost
+20
+200
+
+109
+Disk
+Schijf
+Wooden disk
+Houten schijf
+defenseboost
+35
+350
+
+110
+Disk
+Schijf
+Copper disk
+Koper schijf
+defenseboost
+55
+550
+
+111
+Disk
+Schijf
+Chromium disk
+Chroom schijf
+defenseboost
+80
+800

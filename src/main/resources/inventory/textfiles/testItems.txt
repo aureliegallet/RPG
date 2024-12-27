@@ -1,0 +1,639 @@
+0
+Sword
+Zwaard
+A glass sword
+Glazen zwaard
+attack
+5
+50
+1
+
+1
+Sword
+Zwaard
+A wooden sword
+Houten zwaard
+attack
+10
+100
+1
+
+2
+Sword
+Zwaard
+A copper sword
+Koper zwaard
+attack
+20
+200
+1
+
+3
+Sword
+Zwaard
+A bronze sword
+Bronzen zwaard
+attack
+35
+350
+1
+
+4
+Sword
+Zwaard
+A platinum sword
+Platina zwaard
+attack
+55
+550
+1
+
+5
+Sword
+Zwaard
+An iron sword
+Ijzer zwaard
+attack
+80
+800
+1
+
+6
+Sword
+Zwaard
+A steel sword
+Staal zwaard
+attack
+120
+1200
+1
+
+7
+Sword
+Zwaard
+A titanium sword
+Titania zwaard
+attack
+180
+1800
+1
+
+8
+Sword
+Zwaard
+A diamond sword
+Diamant zwaard
+attack
+250
+2500
+1
+
+9
+Sword
+Zwaard
+A kevlar sword
+Kevlar zwaard
+attack
+500
+4000
+1
+
+10
+Shield
+Schild
+A glass shield
+Glazen schild
+defense
+5
+50
+1
+
+11
+Shield
+Schild
+A wooden shield
+Houten schild
+defense
+10
+100
+1
+
+12
+Shield
+Schild
+A copper shield
+Koper schild
+defense
+20
+200
+1
+
+13
+Shield
+Schild
+A bronze shield
+Bronzen schild
+defense
+35
+350
+1
+
+14
+Shield
+Schild
+A platinum shield
+Platina schild
+defense
+55
+550
+1
+
+15
+Shield
+Schild
+An iron shield
+Ijzer schild
+defense
+80
+800
+1
+
+16
+Shield
+Schild
+A steel shield
+Staal schild
+defense
+120
+1200
+1
+
+17
+Shield
+Schild
+A titanium shield
+Titanium schild
+defense
+180
+1800
+1
+
+18
+Shield
+Schild
+A diamond shield
+Diamant schild
+defense
+250
+2500
+1
+
+19
+Shield
+Schild
+A kevlar shield
+Kevlar schild
+defense
+500
+4000
+1
+
+20
+Helmet
+Helm
+A glass helmet
+Glazen helm
+defense
+5
+50
+1
+
+21
+Helmet
+Helm
+A wooden helmet
+Houten helm
+defense
+10
+100
+1
+
+22
+Helmet
+Helm
+A copper helmet
+Koper helm
+defense
+20
+200
+1
+
+23
+Helmet
+Helm
+A bronze helmet
+Bronzen Helm
+defense
+35
+350
+1
+
+24
+Helmet
+Helm
+A platinum helmet
+Platina Helm
+defense
+55
+550
+1
+
+25
+Helmet
+Helm
+An iron helmet
+Ijzer Helm
+defense
+80
+800
+1
+
+26
+Helmet
+Helm
+A steel helmet
+Staal Helm
+defense
+120
+1200
+1
+
+27
+Helmet
+Helm
+A titanium helmet
+Titanium Helm
+defense
+180
+1800
+1
+
+28
+Helmet
+Helm
+A diamond helmet
+Diamant Helm
+defense
+250
+2500
+1
+
+29
+Helmet
+Helm
+A kevlar helmet
+Kevlar Helm
+defense
+500
+4000
+1
+
+30
+Cuirass
+Borstplaat
+A glass cuirass
+Glazen borstplaat
+defense
+5
+50
+1
+
+31
+Cuirass
+Borstplaat
+A wooden cuirass
+Houten borstplaat
+defense
+10
+100
+1
+
+32
+Cuirass
+Borstplaat
+A copper cuirass
+Koper borstplaat
+defense
+20
+200
+1
+
+33
+Cuirass
+Borstplaat
+A bronze cuirass
+Bronzen borstplaat
+defense
+35
+350
+1
+
+34
+Cuirass
+Borstplaat
+A platinum cuirass
+Platina borstplaat
+defense
+55
+550
+1
+
+35
+Cuirass
+Borstplaat
+An iron cuirass
+Ijzer borstplaat
+defense
+80
+800
+1
+
+36
+Cuirass
+Borstplaat
+A steel cuirass
+Staal borstplaat
+defense
+120
+1200
+1
+
+37
+Cuirass
+Borstplaat
+A titanium cuirass
+Titanium borstplaat
+defense
+180
+1800
+1
+
+38
+Cuirass
+Borstplaat
+A diamond cuirass
+Diamant borstplaat
+defense
+250
+2500
+1
+
+39
+Cuirass
+Borstplaat
+A kevlar cuirass
+Kevlar borstplaat
+defense
+500
+4000
+1
+
+40
+Pants
+Broek
+Glass pants
+Glazen broek
+defense
+5
+50
+1
+
+41
+Pants
+Broek
+Wooden pants
+Houten broek
+defense
+10
+100
+1
+
+42
+Pants
+Broek
+Copper pants
+Koper broek
+defense
+20
+200
+1
+
+43
+Pants
+Broek
+Bronze pants
+Bronzen broek
+defense
+35
+350
+1
+
+44
+Pants
+Broek
+Platinum pants
+Platinum broek
+defense
+55
+550
+1
+
+45
+Pants
+Broek
+Iron pants
+Ijzer broek
+defense
+80
+800
+1
+
+46
+Pants
+Broek
+Steel pants
+Staal broek
+defense
+120
+1200
+1
+
+47
+Pants
+Broek
+Titanium pants
+Titanium broek
+defense
+180
+1800
+1
+
+48
+Pants
+Broek
+Diamond pants
+Diamant broek
+defense
+250
+2500
+1
+
+49
+Pants
+Broek
+Kevlar pants
+Kevlar broek
+defense
+500
+4000
+1
+
+50
+Shoes
+Schoenen
+Glass shoes
+Glazen schoenen
+defense
+5
+50
+1
+
+51
+Shoes
+Schoenen
+Wooden shoes
+Houten schoenen
+defense
+10
+100
+1
+
+52
+Shoes
+Schoenen
+Copper shoes
+Koper schoenen
+defense
+20
+200
+1
+
+53
+Shoes
+Schoenen
+Bronze shoes
+Bronzen schoenen
+defense
+35
+350
+1
+
+54
+Shoes
+Schoenen
+Platinum shoes
+Platina schoenen
+defense
+55
+550
+1
+
+55
+Shoes
+Schoenen
+Iron shoes
+Ijzer schoenen
+defense
+80
+800
+1
+
+56
+Shoes
+Schoenen
+Steel shoes
+Staal schoenen
+defense
+120
+1200
+1
+
+57
+Shoes
+Schoenen
+Titanium shoes
+Titanium schoenen
+defense
+180
+1800
+1
+
+58
+Shoes
+Schoenen
+Diamond shoes
+Diamant schoenen
+defense
+250
+2500
+1
+
+59
+Shoes
+Schoenen
+Kevlar shoes
+Kevlar schoenen
+defense
+500
+4000
+1
+
+100
+Apple
+Appel
+Regular Apple
+Gewone appel
+healing
+5
+50
+99
+
+101
+Apple
+Appel
+Magic Apple
+Magische appel
+healing
+10
+100
+99
+
+102
+Potion
+Toverdrank
+Elf Potion
+Elfen drankje
+healing
+5
+50
+99
+
+103
+Potion
+Toverdrank
+Fairy Potion
+Sprookjes drankje
+healing
+10
+100
+99

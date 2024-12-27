@@ -1,0 +1,93 @@
+#Merchant details
+A
+Name = Zjari
+Profession = boat
+
+B
+Name = Uji
+Profession = weapons
+
+C
+Name = Parora
+Profession = clothing
+
+#Fighter details
+a
+Name = Blaze
+Status = alive
+Profession = armory
+
+b
+Name = Slash
+Status = alive
+Profession = armory
+
+c
+Name = Prince
+Status = alive
+Profession = armory
+
+d
+Name = Emlo
+Status = alive
+Profession = armory
+
+e
+Name = Stein
+Status = alive
+Profession = armory
+
+f
+Name = Vato
+Status = alive
+Profession = armory
+
+g
+Name = Dutse
+Status = alive
+Profession = armory
+
+h
+Name = Kamea
+Status = alive
+Profession = armory
+
+i
+Name = Mato
+Status = alive
+Profession = armory
+
+j
+Name = Havei
+Status = alive
+Profession = armory
+
+k
+Name = Matai
+Status = alive
+Profession = armory
+
+l
+Name = Mabel
+Status = alive
+Profession = armory
+
+m
+Name = Shango
+Status = alive
+Profession = armory
+
+n
+Name = Katenda
+Status = alive
+Profession = armory
+
+o
+Name = Endala
+Status = alive
+Profession = armory
+
+p
+Name = Tao
+Status = alive
+Profession = armory

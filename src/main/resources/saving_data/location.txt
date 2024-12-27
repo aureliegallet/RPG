@@ -1,0 +1,7 @@
+#Current location and player coordinates
+#Sat Jun 17 23:29:16 CEST 2023
+playerX=10
+lastIslandX=13
+lastIslandY=16
+location=ISLAND
+playerY=10

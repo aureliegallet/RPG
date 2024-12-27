@@ -1,0 +1,89 @@
+0
+Sword
+Zwaard
+A glass sword
+Glazen zwaard
+attack
+5
+50
+
+10
+Shield
+Schild
+A glass shield
+Glazen schild
+defense
+5
+50
+
+20
+Helmet
+Helm
+A glass helmet
+Glazen helm
+defense
+5
+50
+
+30
+Cuirass
+Borstplaat
+A glass cuirass
+Glazen borstplaat
+defense
+5
+50
+
+40
+Pants
+Broek
+Glass pants
+Glazen broek
+defense
+5
+50
+
+50
+Shoes
+Schoenen
+Glass shoes
+Glazen schoenen
+defense
+5
+50
+
+100
+Apple
+Appel
+Regular Apple
+Gewone appel
+healing
+5
+50
+
+101
+Apple
+Appel
+Magic Apple
+Magische appel
+healing
+10
+100
+
+102
+Potion
+Toverdrank
+Elf Potion
+Elfen drankje
+health
+5
+50
+
+103
+Potion
+Toverdrank
+Fairy Potion
+Sprookjes drankje
+health
+10
+100

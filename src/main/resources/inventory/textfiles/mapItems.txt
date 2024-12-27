@@ -1,0 +1,29 @@
+1
+200
+Ticket
+Kaartje
+Subway Ticket
+Metrokaartje
+subway
+0
+10000
+
+8
+100
+Apple
+Appel
+Regular Apple
+Gewone appel
+healing
+5
+50
+
+2
+102
+Potion
+Toverdrank
+Elf Potion
+Elfen drankje
+health
+5
+50
